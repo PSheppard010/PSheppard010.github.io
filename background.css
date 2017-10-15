@@ -1,7 +1,7 @@
 body {
     height: 100%;
     background-color: #ffffff;
-    background-image: url("images/overlay.png"), -moz-linear-gradient(36deg, rgba(249,152,47,100) 0%, rgba(9249,165,80,50) 1%, rgba(249,186,127,10) 10%, rgba(255,255,255,100) 100%), url("bg3.jpg");
+    background-image: url("images/overlay.png"), -moz-linear-gradient(36deg, rgba(249,152,47,100) 0%, rgba(249,165,80,50) 1%, rgba(249,186,127,10) 10%, rgba(255,255,255,100) 100%), url("bg3.jpg");
     background-image: url("images/overlay.png"), -webkit-linear-gradient(36deg, rgba(249,152,47,100) 0%, rgba(249,165,80,50) 5%, rgba(249,186,127,10) 10%, rgba(255,255,255,100) 100%), url("bg3.jpg");
     background-image: url("images/overlay.png"), -ms-linear-gradient(36deg, rgba(249,152,47,100) 0%, rgba(249,165,80,50) 1%, rgba(249,186,127,10) 10%, rgba(255,255,255,100) 100%), url("bg3.jpg");
     background-image: url("images/overlay.png"), linear-gradient(36deg, rgba(249,152,47,100) 0%, rgba(249,165,80,50) 1%, rgba(249,186,127,10) 10%, rgba(255,255,255,100) 100%), url("bg3.jpg");
